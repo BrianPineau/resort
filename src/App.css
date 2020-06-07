@@ -476,7 +476,12 @@ input[type=number] {
 /* end of roomlist */
 /*  rooms fitler*/
 .filter-container {
+  margin: 20px;
   padding: 5rem 0;
+  border: 1px solid #AAAAAA;
+  border-radius: 10px;
+  background-color: rgb(235, 235, 235);
+
 }
 .filter-form {
   width: 60vw;
